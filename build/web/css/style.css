@@ -1,0 +1,247 @@
+*{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+header, footer{
+    width: 98%;
+    height: 50px;
+    padding: 9px;
+    background-color: white;
+    border-bottom: 1px solid #ccc;
+}
+
+footer{
+    text-align: center;
+    font-family: Arial;
+    font-size: 12px;
+}
+
+.td01{
+    padding: 10px; 
+    text-align: center;
+}
+
+.a01{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    border-color: white;
+}
+
+.a01:link{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+}
+
+.a01:disabled{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+}
+
+.a01:hover{
+    text-decoration: none;
+    color: yellow;
+    font-family: Arial;
+    font-weight: 700;
+}
+
+.a011{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    border-color: white;
+}
+
+.a011:link{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+}
+
+.a011:disabled{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+}
+
+.a011:hover{
+    text-decoration: none;
+    color: yellow;
+    font-family: Arial;
+    font-weight: 700;
+}
+
+.a011:active{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-weight: 700;
+    border-color: white;
+}
+
+input{
+    font-family: Arial;
+    font-size: 15px;
+    width: 20%;
+}
+
+.btn{
+    color: black;
+    background-color: white;
+    padding: 5px;
+    width: 70px;
+    font-size: 12px;
+}
+
+#tb1, #tr01{
+    background-color: red;
+    width: 100%;
+}
+
+#tb1save, #tr01save, #tb1up, #tr01up{
+    background-color: red;
+    width: 100%;
+}
+
+#tb11, #tr011{
+    background-color: red;
+    width: 30%;
+    padding: 2%;    
+}
+
+#nav-tb1{
+    background-color: red;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 5px solid cyan;
+}
+
+#div-inputs1,#div-inputs-btns, #div-inputs-u,#div-inputs-btnsu{
+    height: 10%;
+    width: 98%;
+    background-color: cyan;
+    padding: 9px;
+    text-align: center;
+}
+
+#tb2{
+    background-color: cyan;
+    padding: 10px;
+    width: 100%;
+}
+
+h1{
+    font-family: Verdana, Arial;
+}
+
+h2{
+    font-family: Arial;
+}
+
+#tb03-list {
+    width: 100%;
+    background-color: white;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.th-list{
+    color: white;
+    border-right: 1px solid white;
+    background-color: red;
+    font-family: Arial;
+    font-size: 12px;
+    padding: 0.3%;
+    border: 1px solid red;
+}
+
+.td-list{
+    background-color: cyan;
+    border-right: 1px solid white;
+    text-align: center;
+    font-family: Arial;
+    font-weight: 600;
+    font-size: 10px;
+    padding: 0.5%; 
+    border: 1px solid cyan;
+}
+
+#td-list-a{
+    background-color: white;
+    text-align: center;
+    font-family: Arial;
+    font-size: 10px;
+    padding: 0.5%;
+    border: 1px solid deepskyblue;
+}
+
+#a-preview,#a-preview:link, #a-preview:disabled, #a-preview:active {
+    color: red;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+#a-preview:hover{
+    color: blue;
+}
+
+.a,.a:link, .a:disabled, .a:active {
+    color: red;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.a:hover{
+    color: blue;
+}
+
+#div-time-text{
+    width: 98%;
+    height: 10%;
+    padding-top: 5%;
+    text-align: center;
+    font-family: Arial;
+    color: red;
+    font-weight: 700;
+    background-color: white;
+}
+
+#div-404, #div-error, #div-remove, #div-save{
+    width: 100%;
+    height: 100%;
+    padding-top: 25%;
+    text-align: center;
+    color: black;
+    font-family: Arial;
+}
+
+.in-time{
+    width: 25px;
+    text-align: center;
+}
+
+.textIn{
+    color: red;
+    font-weight: 500;
+}
+
+#td1{
+    width: 50px;
+}
+
+#tr011{
+    padding-left: 5px;
+}
+
+#section-table, #div-section{
+   width: 100%;
+}
+
+form{
+    width: 100%;
+}

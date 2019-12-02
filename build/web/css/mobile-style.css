@@ -1,0 +1,167 @@
+@media (min-width: 320px) {
+    #tb1save, #tb1up{
+        font-size: 8px; width: 100%;
+    }
+    input{
+        width: 80%; margin: 1px;
+    }
+    .body{
+        background-color: white; width: 100%;
+    }
+    .btn{
+        font-size: 10px;
+    }
+    header, footer, #nav-tb1,#div-time-text{
+        width: 95%; padding-left: 5px; padding-right: 10px;
+    }
+    .th-list, .td-list, #td-list-a{
+        padding: 10px; font-size: 11px;
+    }
+    .td011{
+        padding-right: 10px;
+    }
+    #div-section, .art{
+        width: 100%;
+    }
+    #div-section{
+        background-color: cyan;
+    }
+    #section-table, #div-section{
+        overflow-x: auto;
+    }    
+}
+
+@media (min-width: 468px) {
+    #tb1save,#tb1up{
+        font-size: 12px; width: 100%;
+    }
+    input{
+        width: 70%; margin: 1px;
+    }
+    .body{
+        background-color: white;
+    }
+    .btn{
+        font-size: 12px;
+    }
+    header, footer, #nav-tb1,#div-time-text{
+        width: 96.8%; padding-left: 5px; padding-right: 10px;
+    }
+    .th-list, .td-list, #td-list-a{
+        padding: 10px; font-size: 11px;
+    }
+    .td011{
+        padding-right: 10px;
+    }
+    #div-section, .art{
+        width: 100%;
+    }
+    #div-section{
+        background-color: cyan;
+    }
+    #section-table, #div-section{
+        overflow-x: auto;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    #tb1save,#tb1up{
+        font-size: 14px; width: 100%;
+    }
+    input{
+        width: 70%; margin: 1px;
+    }
+    .body{
+        background-color: white;
+    }
+    .btn{
+        font-size: 16px;
+    }
+    header, footer, #nav-tb1,#div-time-text{
+        width: 97.5%; padding-left: 5px; padding-right: 10px;
+    }
+    .th-list, .td-list, #td-list-a{
+        padding: 10px; font-size: 11px;
+    }
+    .td011{
+        padding-right: 10px;
+    }
+    #div-section, .art{
+        width: 100%;text-align: center;
+    }
+    #div-section{
+        background-color: cyan;
+    }  
+    #section-table, #div-section{
+        overflow-x: auto;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    #tb1save,#tb1up{
+        font-size: 16px; width: 100%;
+    }
+    input{
+        width: 22%; margin: 1px;
+    }
+    .body{
+        background-color: white;
+    }
+    .btn{
+        width: 10%; font-size: 14px;
+    }
+    header, footer, #nav-tb1,#div-time-text{
+        width: 98%; padding-left: 5px; padding-right: 10px;
+    }
+    .th-list, .td-list, #td-list-a{
+        padding: 10px; font-size: 11px;
+    }
+    .td011{
+        padding-right: 10px;
+    }
+    #div-section, .art{
+        width: 100%;text-align: center;
+    }
+    #div-section{
+        background-color: cyan;
+    } 
+    #section-table, #div-section{
+        overflow-x: auto;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    #tb1save,#tb1up{
+        font-size: 20px; width: 100%;
+    }
+    input{
+        width: 22%; margin: 1px; font-size: 12px;
+    }
+    .body{
+        background-color: white;
+    }
+    .btn{
+        width: 15%;font-size: 18px;
+    }
+    header, footer, #nav-tb1,#div-time-text{
+        width: 98.95%; padding-left: 5px; padding-right: 10px;
+    }
+    header, #div-time-text,footer{
+        font-size: 24px;
+    }
+    .th-list, .td-list, #td-list-a{
+        padding: 10px; font-size: 20px;
+    }
+    .td011{
+        padding-right: 10px; font-size: 20px;
+    }
+    #div-section, .art{
+        width: 100%;text-align: center;
+    }
+    #div-section{
+        background-color: cyan;
+    }
+    #section-table, #div-section{
+        overflow-x: auto;
+    }   
+}
